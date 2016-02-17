@@ -1,0 +1,165 @@
+{
+  "basics": {
+    "name": "Miodrag Vasić",
+    "label": "Software developer",
+    "picture": "",
+    "email": "mvmishko@gmail.com",
+    "phone": "+381641764761",
+    "website": "mvmishko.wordpress.com",
+    "summary": "I’ve graduated in Computer science and IT at University of Niš, Faculty of electronics in 1996. Since graduating, I have worked on many positions as a Software developer and IT professional often simultaneously what I found one of my major advantages. Here are details about concrete areas of my work and professionhal interests:  - Object oriented programming, Design Paterns, ORM (Visual Studio - C#.NET, Lambda expressions and LINQ, EntitiyFramework 6,) -  SQL Databases for desktop Client/Server or Web applications, Windows Azure cloud solution,  - Web technologies (Frontend: HTML 5, CSS 3, JavaScript, jQuery, Bootstrap, Backend: PHP & MySQL, ASP.NET MVC 5 and MVC as general template)  - MS SQL Server DB Design, programming, maintenance and administrating, - ERP systems based on MS SQL Sever (manufacturing, purchasing, sales, accounting, inventory management, salary etc.) implementing - Programming and Database design, setting-up and maintenance, Reporting Service, BI, etc.",
+    "location": {
+      "address": "Podgorička, 2nd",
+      "postalCode": "18300",
+      "city": "Pirot",
+      "countryCode": "Serbia",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "facebook",
+        "username": "Miodrag Vasic (mishko@ptt.rs)",
+        "url": "https://www.facebook.com/mvmishko"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Technical school, Pirot",
+      "position": "Professor",
+      "website": "www.tsp.edu.rs",
+      "startDate": "2002-09-01",
+      "endDate": "Now",
+      "summary": "Programming languages and Web programming subjects",
+      "highlights": [
+        "C/C++, Visual C#.NET 2013, ASP.NET, MS Access 2013 and MS SQL Server 2014 •\tHTML5, CSS3,Bootstrap, Javascript, jQuery, ASP.NET MVC •\tPHP, MySQL",
+        "HTML5, CSS3,Bootstrap, Javascript, jQuery, ASP.NET MVC",
+        "PHP, MySQL and MVC in general"
+      ]
+    },
+    {
+      "company": "State Enterprise for Forest Management \"Srbijašume\" Belgrade",
+      "position": "IT Professional",
+      "website": "www.srbijasume.rs",
+      "startDate": "2000-10-01",
+      "endDate": "2015-10-01",
+      "summary": "MS Windows 2003/2008 Small Business Server, MS SQL Server, LAN/WAN VPN Network administrator",
+      "highlights": []
+    },
+    {
+      "company": "CER Prom d.o.o.",
+      "position": "Software developer",
+      "website": "",
+      "startDate": "2006-03-10",
+      "endDate": "2007-02-9",
+      "summary": "Lab equipment software control (485 bus, Omron PLC, Delphi 7)",
+      "highlights": []
+    },
+    {
+      "company": "Alatnica Krstic d.o.o.",
+      "position": "Web design and master",
+      "website": "www.alatnica-krstic.co.rs",
+      "startDate": "2010",
+      "endDate": "2012",
+      "summary": "HTML, CSS, JavaScript, Flash, Photoshop, PHP",
+      "highlights": []
+    },
+    {
+      "company": "Free zone Pirot",
+      "position": "Software developer",
+      "website": "http://www.freezonepirot.com/",
+      "startDate": "2001",
+      "endDate": "2010",
+      "summary": "Integrated services solution (Invoices, Transport, Export-Import, International Forwarding, Agreements, Payments, Salaries, etc.",
+      "highlights": []
+    },
+    {
+      "company": "Dunav Insurance agency partner",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2010",
+      "endDate": "Now",
+      "summary": "Software developer for a small insurance company partners (Car, Life, Travel, ... insurance) (C# or Delphi XE, MS Access or MS SQL Server)",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Nis, Faculty of electronic engineering",
+      "area": "Computer scienece and IT",
+      "studyType": "Master",
+      "startDate": "1990-10-01",
+      "endDate": "1996-02-02",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "jQuery",
+        "Bootstrap",
+        "PHP",
+        "ASP.NET MVC"
+      ]
+    },
+    {
+      "name": "Object-oriented programming",
+      "level": "Master",
+      "keywords": [
+        "C#.NET",
+        "Delphi XE",
+        "Design patrerns",
+        "ORM"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Master",
+      "keywords": [
+        "MS SQL Server",
+        "MySQL"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Conversation level"
+    },
+    {
+      "language": "German",
+      "fluency": "A1"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sport",
+      "keywords": [
+        "Basketball",
+        "Skiing"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Udemy",
+      "reference": "www.udemy.com/u/miskovasi/"
+    },
+    {
+      "name": "Microsoft Virtual Academy",
+      "reference": "https://mva.microsoft.com/Profile.aspx?alias=1519032"
+    },
+    {
+      "name": "My Solutions and Certificates",
+      "reference": "https://drive.google.com/folderview?id=0BxHjJdh1EIHrWExkTHc0ckxOajQ&usp=sharing"
+    }
+  ]
+}
